@@ -67,6 +67,4 @@ class _PaginationViewState extends State<PaginationView> {
       }),
     );
   }
-
-
 }
